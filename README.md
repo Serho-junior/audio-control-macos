@@ -3,7 +3,7 @@
 > Switch audio devices and control volume per app — all from your menu bar.
 
 <p align="center">
-  <a href="https://YOUR_USERNAME.github.io/audio-control/">
+  <a href="https://Serho-junior.github.io/audio-control-macos/">
     <img src="https://img.shields.io/badge/Install-Open%20guide-0071e3?style=for-the-badge&logo=apple&logoColor=white" alt="Install — open installation guide" />
   </a>
 </p>
